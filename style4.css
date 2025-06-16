@@ -1,0 +1,13 @@
+body {
+  margin-left: auto;
+  margin-right: auto;
+width: 60%;}
+p {text-align: center;
+font-family: "Times New Roman", Times, serif;
+font-size: 20px;}
+"Youtube video player"{height: 400px;
+border:5px solid #E9967A;
+	 display: block;
+  margin: auto;
+  width: 50%;
+ }

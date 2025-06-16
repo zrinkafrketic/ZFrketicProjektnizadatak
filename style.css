@@ -1,0 +1,42 @@
+body {
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+  background-image: url("Pozadinska_slika.jpg");
+}
+h1, h2 {text-align: center;
+  color: Indigo;
+  background-color: lavender;
+}
+p {text-align: center;
+font-family: "Times New Roman", Times, serif;
+font-size: 20px;}
+img {
+  height:400px
+}
+p2 {text-align: center;
+font-family: "Times New Roman", Times, serif;
+font-size: 20px;}
+a:hover{
+color: red}
+ul {	
+			padding:20px; 
+			margin-left: auto; 
+			margin-right:auto;  
+			width: 400px;
+			} 
+li { display:inline; 
+padding:20px;
+color: indigo}
+ul {	
+			padding:20px; 
+			margin-left: auto; 
+			margin-right:auto;  
+			width: 400px;
+			} 
+	li {	display:inline; 
+			background-color:pink;
+			padding:20px;
+	border: 2px solid IndianRed;}
+    li:active {background-color:white;}
+	li a:hover {background-color;white;}
